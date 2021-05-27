@@ -1,0 +1,6 @@
+[submodule "ext/xorg-proto-x11proto"]
+	path = ext/xorg-proto-x11proto
+	url = https://github.com/freedesktop/xorg-proto-x11proto
+[submodule "ext/xorg-libX11"]
+	path = ext/xorg-libX11
+	url = https://github.com/freedesktop/xorg-libX11
